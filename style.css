@@ -1,0 +1,26 @@
+
+*{
+    color :blue;
+}
+
+h1 {
+    color: green;
+}
+
+#heading-one{
+    color : yellow;
+}
+
+#heading-two{
+    color : red;
+}
+#heading-three{
+    color : blue;
+}
+#paragraph-one{
+    color : purple;
+}
+
+.class-one{
+    color : orange;
+}
